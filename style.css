@@ -1,0 +1,34 @@
+body {
+    margin: auto;
+    max-width: 500px;
+    background-color: darkorange;
+}
+
+h1 {
+    font-size: 2rem;
+    color: blue;
+    font-family:'Courier New', Courier, monospace
+}
+
+img {
+    width: 300px;
+}
+
+p {
+    font-size: 1.3rem;
+    font-family:'Courier New', Courier, monospace
+}
+
+b {
+    font-size: 1.3rem;
+    color: green;
+}
+
+a:hover {
+    color: brown;
+}
+
+ul {
+    font-size: 1.3rem;
+    font-family:'Courier New', Courier, monospace  
+}
